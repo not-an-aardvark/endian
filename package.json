@@ -1,0 +1,22 @@
+{
+  "name": "endian",
+  "version": "0.1.0",
+  "description": "Determines whether the system is little-endian or big-endian",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not-an-aardvark/endian.git"
+  },
+  "keywords": [
+    "endian"
+  ],
+  "author": "not-an-aardvark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/not-an-aardvark/endian/issues"
+  },
+  "homepage": "https://github.com/not-an-aardvark/endian#readme"
+}
